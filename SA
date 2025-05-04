@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="he" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>שלומי אלבין - עיצוב שיער</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #2b78c5;
+            color: white;
+            margin: 0;
+            padding: 0;
+            text-align: center;
+        }
+        .container {
+            padding: 2em;
+        }
+        .logo-text {
+            font-size: 4em;
+            font-weight: bold;
+            letter-spacing: 0.1em;
+            margin-bottom: 0.3em;
+        }
+        h1 {
+            margin: 0.2em 0;
+        }
+        p {
+            font-size: 1.2em;
+            margin: 0.5em 0;
+        }
+        a.button {
+            display: inline-block;
+            margin-top: 1em;
+            padding: 0.7em 1.5em;
+            background-color: white;
+            color: #2b78c5;
+            text-decoration: none;
+            font-weight: bold;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <div class="logo-text">S•A</div>
+    <h1>שלומי אלבין</h1>
+    <h2>עיצוב שיער</h2>
+
+    <p><strong>טלפון:</strong> <a href="tel:0506448380" style="color: white;">050-6448380</a></p>
+    <p><strong>אימייל:</strong> <a href="mailto:shlomialbin100@gmail.com" style="color: white;">shlomialbin100@gmail.com</a></p>
+    <p><strong>כתובת:</strong> העוז 11/1, אשקלון</p>
+    <p><strong>שעות פעילות:</strong><br>ראשון עד חמישי: 9:30–19:30<br>שישי בתיאום מראש</p>
+
+    <a class="button" href="https://wa.me/972506448380?text=שלום, אני מעוניין/ת לקבוע תור לשלומי אלבין" target="_blank">קבע תור ב־WhatsApp</a>
+</div>
+
+</body>
+</html>
